@@ -1,0 +1,20 @@
+{
+    "welcome": "مرحبا",
+    "greeting": "هاي",
+    "translatLang":"العربيه",
+    "productName":"اسم المنتج",
+    "description":"الوصف",
+    "price":"السعر",
+    "category":"العربيه",
+    "logout":"خروج",
+    "Image":"صوره",
+    "username":"اسم المستخدم",
+    "password":"الرقم السري",
+    "update":"تعديل",
+    "delete":"حذف",
+    "signup":"تسجيل دحول جديد",
+    "getstareted":"ابدا",
+    "ِaddProduct":"اضافه منتج",
+    "usernameorPasswordIncorrect":"اسم المستخدم او الرقم السري خظا",
+    "Actions":"العمليات"
+  }

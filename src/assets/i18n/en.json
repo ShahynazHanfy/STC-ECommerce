@@ -1,0 +1,20 @@
+{
+    "welcome": "¡Bienvenido a mi aplicación!",
+    "greeting": "¡Hola, {name}!",
+    "translatLang":"EN",
+    "productName":"productName",
+    "description":"description",
+    "price":"price",
+    "category":"category",
+    "logout":"logout",
+    "Image":"Image",
+    "username":"username",
+    "password":"password",
+    "update":"update",
+    "delete":"delete",
+    "signup":"signup",
+    "getstareted":"Getstareted",
+    "usernameorPasswordIncorrect":"usernameorPasswordIncorrect",
+    "ِaddProduct":"ِaddProduct",
+    "Actions":"Actions"
+  }

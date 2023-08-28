@@ -1,0 +1,45 @@
+<!-- 
+    <article>
+      <div class="article-wrapper">
+        <figure>
+          <img [src]="img" alt="image" />
+        </figure>
+        <div class="article-body">
+          <h2> {{title}}</h2>
+          <p>
+           {{description}}
+          </p>
+          <a href="#" class="read-more">
+            Read more <span class="sr-only">about this is some title</span>
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 20 20" fill="currentColor">
+              <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+            </svg>
+          </a>
+        </div>
+      </div>
+    </article> -->
+ 
+
+    <!-- <div class="row row-cols-xl-4 row-cols-lg-3 row-cols-md-2 row-cols-1 g-4">
+      <div *ngFor="let item of [0, 0, 0, 0]"> -->
+        <div class="card rounded border p-2">
+          <div class="card-body">
+            <img
+              [src]="product?.image"
+              loading="lazy"
+              class="image-header mb-3"
+            />
+            <h5 class="card-title">{{product.title}}</h5>
+            <h5 class="card-subtitle mb-2 text-muted fw-normal opacity-50 mb-3">
+              {{product.category}}
+            </h5>
+            <p class="card-text opacity-75 mb-3">
+              Whipped steamed roast cream beans macchiato skinny grinder café.
+              Iced grinder go mocha steamed grounds cultivar panna aroma.
+            </p>
+    
+            <h4>{{product.price}}EGP</h4>
+          </div>
+        </div>
+      <!-- </div>
+    </div> -->

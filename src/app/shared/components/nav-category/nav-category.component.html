@@ -1,0 +1,10 @@
+<div (click)="categoryEmit()">
+  <div class="category">
+    <div class="img-hover-zoom" [ngClass]="{'border border-danger ':active}">
+      <img [src]= "'assets/categorries-images/' + image + '.jpg'"  alt="This zooms-in really well and smooth" />
+    </div>
+    <div class="titel d-flex justify-content-center">
+      <p>{{title}}</p>
+    </div>
+  </div>
+</div>
